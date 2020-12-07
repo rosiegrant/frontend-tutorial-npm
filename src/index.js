@@ -25,7 +25,7 @@ ANSWERS.init({
   apiKey: "3517add824e992916861b76e456724d9",
   experienceKey: "answers-js-docs",
   businessId: "3215760",
-  TemplateBundle: TemplateBundle.default,
+  templateBundle: TemplateBundle.default,
   experienceVersion: "PRODUCTION",
   verticalPages: [
     {
