@@ -1,4 +1,4 @@
-This is a repository that tests the Answers NPM package, found here: https://www.npmjs.com/package/@yext/answers. This repo already has the version installed.
+This is a repository that tests the Answers NPM package, found here: https://www.npmjs.com/package/@yext/answers. This repo already has the package installed.
 
 To try it out:
 
